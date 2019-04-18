@@ -1,0 +1,5 @@
+glpk Frontend -> Matrix representation
+Octave Backend -> parallel?
+incremental solver -> partial matrices up to full matrix
+incremental solver -> start with previous solution, new matrix, relax solution gradually
+
